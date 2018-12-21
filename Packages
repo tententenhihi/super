@@ -1,0 +1,222 @@
+Package: com.superantim.removercy103
+Name: Remover Cydia 10-10.2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
+Maintainer: pwn20wnd (superantim.github.io)
+Author: pwn20wnd & coolstarorg (superantim.github.io)
+Sponsor: GitHub.com <github.com>
+Section: SA - DeleteTool72
+Filename: ./debs/Remover.deb
+Size: 198240
+MD5sum: cde1449ad493b33b508f3aabd5920c32
+
+Package: com.superantim.autolead72
+Name: autolead
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Auto Lead iOS 10 - 10.2
+Author: VoAazon                    (superantim.github.io)
+Section: SA - Autolead72
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.superantim.xcon4,jetslammed,socat,com.superantim.hookkeyboard,com.superantim.icontool,com.cydiageek.coysim,com.superantim.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Filename: ./debs/autolead72.deb
+Size: 243070
+MD5sum: 04a168eb380f41a7f448db4f14486b56
+Icon: https://www.upsieutoc.com/images/2018/11/27/iconsys.png
+
+Package: com.superantim.hookkeyboard
+Name: hookkeyboard
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Auto Lead iOS 10 - 10.2
+Author: VoAazon                    (superantim.github.io)
+Section: SA - Autolead72
+Filename: ./debs/Hookkeybroad.deb
+Size: 331790
+MD5sum: 889fa2cd7174e33b6317cae39577192c
+
+Package: com.superantim.icontool
+Name: Icon Tool
+Version: 1.9
+Architecture: iphoneos-arm
+Description: app tools menu from jiggle mode
+Author: ioshack                    (superantim.github.io)
+Section: SA - Autolead72
+Filename: ./debs/icontool.deb
+Size: 384198
+MD5sum: dd4234fc9dfd9b5c49149b41484adcd9
+
+Package: com.superantim.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0
+Architecture: iphoneos-arm
+Description: change your location using a map Cracked.....................
+Author: Cunstuck                    (superantim.github.io)
+Section: SA - Autolead72
+Filename: ./debs/locationfaker8910.deb
+Size: 549934
+MD5sum: c1ba84383f9c111bef17796a2ad1cca6
+
+Package: com.superantim.xcon4
+Name: xCon4
+Version: 42~beta4
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection iOS 10-10.2
+Author: Lunatik  (superantim.github.io)
+Section: SA - Autolead72
+Maintainer: Xarold                    (superantim.github.io)
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.repo.xarold.com.xcon, com.yourcompany.dtvrunner
+Pre-Depends: firmware (>= 10.0.0), firmware (<= 10.2)
+Filename: ./debs/Xcon4.deb
+Size: 136616
+MD5sum: 6800219cc6b293531451d6b44fe16085
+
+Package: com.superantim.icleanerprobeta
+Name: iCleaner Pro Beta for iOS 10.3.X
+Version: 7.6.3~beta2
+Depends: firmware (>= 4.0)
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner, com.hackyouriphone.icleanerpro
+Replaces: org.altervista.exilecom.icleaner, com.hackyouriphone.icleanerpro
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi             (superantim.github.io)
+Section: SA - CleanData
+Description: The first real iOS system cleaner & optimizer --- WARNING: BETA VERSION FOR iOS 10.3.X
+Maintainer: iLeoLion <superantim.github.io>
+Filename: ./debs/iCleanPro.deb
+Size: 5228314 
+MD5sum: 806fa2379d22ab49d8e4b6898b5c4759
+
+Name: Filza File Manager
+Package: com.superantim.filzamanager
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Version: 3.5.2-1
+Architecture: iphoneos-arm
+Description: File Manager for iOS. Supports iOS 7+
+Sponsor: GitHub.com <github.com>
+Maintainer: BigBoss
+Author: TIGI Software                    (superantim.github.io)
+Section: Utilities
+Filename: ./debs/Filza.deb
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Size: 13543942
+MD5sum: e41fa977d1bea89358ea1b905e55c9cb
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+
+
+Package: com.devntnghia.mterminal
+Name: Mternimal
+Version: 1.0
+Architecture: iphoneos-arm
+Description: MTerminal cho iOS 10-10.3.x
+Maintainer: NTNghia
+Author: NTNghia                    (superantim.github.io)
+Sponsor: GitHub.com <github.com>
+Section: SA - DeleteTool73
+Filename: ./debs/Mternimal.deb
+Size: 129078
+MD5sum: 3791ae1665597d6bc5fd4664149bde4c
+Pre-Depends: 
+Depends: firmware (>= 4.0), system-cmds
+Conflicts: 
+Icon: file:///Applications/MTerminal.app/Icon.png
+
+Package: com.devntnghia.sudo
+Name: Sudo For CS
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: sudo = Super User Do
+Maintainer: NTNghia
+Author: NTNghia                    (superantim.github.io)
+Sponsor: GitHub.com <github.com>
+Section: SA - DeleteTool73
+Filename: ./debs/SudoCS.deb
+Size: 179190
+MD5sum: cf70b0e197b309ae7160a10052798eda
+Pre-Depends: 
+Depends: 
+Conflicts: sudo, com.devntnghia.sudoforcs
+
+Package: com.devntnghia.semi-restore
+Name: Remover Cydia 10.3.x
+Version: 1.2.4
+Architecture: iphoneos-arm
+Description: Remove JB + Cydia cho máy 10.3.x
+Maintainer: NTNghia
+Author: NTNghia                    (superantim.github.io)
+Sponsor: GitHub.com <github.com>
+Section: SA - DeleteTool73
+Filename: ./debs/CydiaSlayer.deb
+Size: 7334
+MD5sum: c6aed3bd8e18c436e5f50a2bd948f023
+Pre-Depends: firmware (>= 10.3), firmware (<= 10.3.3)
+Depends: com.devntnghia.mterminal, coreutils, com.devntnghia.sudo
+Conflicts: 
+
+Package: com.superantim.autolead73
+Name: autolead
+Version: 7.3
+Architecture: iphoneos-arm
+Description: autolead for iOS 9.2.1 - 10.3.3
+Author: CuongTran                     (superantim.github.io)
+Section: SA - Autolead73
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.superantim.hookkeyboard73,com.superantim.icontool73,com.superantim.73locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Filename: ./debs/autolead73.deb
+Size: 243058
+MD5sum: 7111fc3a89fbf1f3dd708590d970f7d7
+
+Package: com.superantim.wTabwData73
+Name: wTabwData73
+Version: 0.0.2-4
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak for KidsAuto!
+Maintainer: kidsauto                      (superantim.github.io)
+Author: kidsauto                       (superantim.github.io)
+Section: SA - Autolead73
+Depends: mobilesubstrate
+Filename: ./debs/wdata73.deb
+Size: 41384
+MD5sum: 9829b58d84227a0f84385818bc3b71ce
+
+Package: com.superantim.hookkeyboard73
+Name: hookkeyboard
+Version: 7.3
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.3.3
+Author: CuongTran                     (superantim.github.io)
+Section: SA - Autolead73
+Depends: mobilesubstrate
+Filename: ./debs/hookkeybroad73.deb
+Size: 331800
+MD5sum: e32673c12615c9624cd5ac7ce0cd1bb9
+
+Package: com.superantim.icontool73
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: app tools menu from jiggle mode
+Author: ioshack                     (superantim.github.io)
+Section: SA - Autolead73
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Filename: ./debs/icontool73.deb
+Size: 384310
+MD5sum: 2be4dfbd4a964196c595e84169119d87
+
+Package: com.superantim.73locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Author: Cunstuck                       (superantim.github.io)
+Section: SA - Autolead73
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+Filename: ./debs/locationfaker73.deb
+Size: 551090
+MD5sum: cc21d3af1ecfc7e94c7917b0e5921aad
